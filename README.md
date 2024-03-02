@@ -8,9 +8,9 @@ Before running the benchmark tests, ensure you have 'psutil' installed. You can 
 
 pip install psutil
 
-### Benchmarked Systems
+# Benchmarked Systems
 
-##Desktop Computer with Ryzen 7 2900
+## Desktop Computer with Ryzen 7 2900
 
 ![Desktop Benchmark Test](https://github.com/Techhead404/BenchmarkTest/assets/9221147/f1ac8d26-689a-40fb-9e71-7529997c6fb5)
 
